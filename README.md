@@ -29,7 +29,7 @@ uv tool install pebble-tool
 
 ### Step 4 - Download & Unzip Example Repository
 
-Example repo: [pebble_hello_world](https://github.com/richardbwest/hello_world)
+Example repo: [pebble_hello_world](https://github.com/richardbwest/pebble_hello_world)
 
 ### Step 5 - Build the App
 
