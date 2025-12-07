@@ -1,0 +1,23 @@
+# Build output
+build/
+*.pbw
+.lock-waf_linux_build
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
